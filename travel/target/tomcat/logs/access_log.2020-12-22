@@ -1,0 +1,8 @@
+127.0.0.1 - - [22/Dec/2020:16:23:58 +0800] "GET /travel HTTP/1.1" 302 - http-bio-80-exec-1 0
+127.0.0.1 - - [22/Dec/2020:16:24:07 +0800] "GET /travel/register.html?action=register&username=80&password=&email=&name=&telephone=&sex=%E7%94%B7&birthday=&check= HTTP/1.1" 200 4347 http-bio-80-exec-4 7
+127.0.0.1 - - [22/Dec/2020:16:24:16 +0800] "GET /travel/checkCode HTTP/1.1" 200 410 http-bio-80-exec-5 8931
+127.0.0.1 - - [22/Dec/2020:16:24:16 +0800] "GET /travel/checkCode HTTP/1.1" 200 372 http-bio-80-exec-2 15265
+127.0.0.1 - - [22/Dec/2020:16:24:26 +0800] "GET /travel/user?action=register&username=%E4%BB%8EVB%E5%93%AA%E5%98%9B&password=&email=&name=&telephone=&sex=%E7%94%B7&birthday=&check= HTTP/1.1" 404 973 http-bio-80-exec-7 23
+127.0.0.1 - - [22/Dec/2020:16:48:05 +0800] "GET /travel HTTP/1.1" 302 - http-bio-80-exec-1 0
+127.0.0.1 - - [22/Dec/2020:16:48:11 +0800] "GET /travel/checkCode HTTP/1.1" 200 396 http-bio-80-exec-2 2277
+127.0.0.1 - - [22/Dec/2020:16:48:11 +0800] "GET /travel/checkCode?1608626891423 HTTP/1.1" 200 367 http-bio-80-exec-4 10
